@@ -13,6 +13,12 @@ The consequences of technical debt can have a significant impact on a company's 
 
 Therefore, it's important to be aware of technical debt and take steps to manage it effectively to ensure the long-term success of a software development project.
 
+<img width="400" src="https://user-images.githubusercontent.com/70295997/217434296-c7e5f196-9bb6-4d3d-bae9-d8465e2299b9.png"><img width="400" src="https://user-images.githubusercontent.com/70295997/217434391-0bc42b3a-24ce-4cf0-89b8-54e402461bd9.png">
+
+<img width="600" src="https://user-images.githubusercontent.com/70295997/217434543-b3d9e44c-8364-43b3-a14a-fa9133004a32.png">
+
+<img width="600" src="https://user-images.githubusercontent.com/70295997/217434776-43daff2f-f19c-4c27-bb11-8a784661f63a.png">
+
 ## Understanding Software Design in Software Development
 
 The term "design" is a multi-faceted concept in the software industry, and software design specifically refers to the internal structure of code. Unlike user-interface design, which deals with the appearance of the software, or user-experience design, which focuses on the user's interaction with the software, software design is the domain of software developers.

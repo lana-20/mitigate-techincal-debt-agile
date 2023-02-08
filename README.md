@@ -17,7 +17,12 @@ Therefore, it's important to be aware of technical debt and take steps to manage
 
 <img width="600" src="https://user-images.githubusercontent.com/70295997/217434543-b3d9e44c-8364-43b3-a14a-fa9133004a32.png">
 
-<img width="600" src="https://user-images.githubusercontent.com/70295997/217434776-43daff2f-f19c-4c27-bb11-8a784661f63a.png">
+<img width="400" src="https://user-images.githubusercontent.com/70295997/217434776-43daff2f-f19c-4c27-bb11-8a784661f63a.png"><img width="400" src="https://user-images.githubusercontent.com/70295997/217437669-8f7a3182-57dc-4731-8c5c-124aefea21e8.png">
+
+Try these collaboration tools by Scaled Agile:
+* [Speedboat](https://collaborate.scaledagile.com/template/try?id=ALL1X3KMJ0NHYGNNSOT0X35EDAKBFAAX)
+* [Planning Wall](https://collaborate.scaledagile.com/template/try?id=FPZJ33AZ2FGOIHOLZSNCNZHG2U24CN1K)
+* [Buy a Feature](https://collaborate.scaledagile.com/template/try?id=O35E2RMDADPOQXINB2H34LVKOTM2QCW1)
 
 ## Understanding Software Design in Software Development
 

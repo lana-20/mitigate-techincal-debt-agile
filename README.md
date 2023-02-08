@@ -37,7 +37,9 @@ These challenges can lead to frustration and a sentiment that "Agile sucks!" How
 
 The solution to the Agilist's Dilemma is to adopt development practices that are better suited for a highly iterative and incremental approach and to stop practices that hinder agility. By doing so, teams can overcome the challenges of Agile software development and create a more efficient and effective process.
 
-## Reducing or avoiding technical debt in software development requires specific technical practices. The main goal is to enhance the functionality of the software without compromising any prior investment in the process. To achieve this, software design needs to be flexible, easy to change and maintain, and most importantly, communicate the intent clearly.
+## Reducing or avoiding technical debt in software development requires specific technical practices. 
+
+The main goal is to enhance the functionality of the software without compromising any prior investment in the process. To achieve this, software design needs to be flexible, easy to change and maintain, and most importantly, communicate the intent clearly.
 
 Agile software development supports this goal by continuously reshaping the design to be appropriate for the current functionality and flexible enough for unexpected changes. The core design practice for Agile software development is called “refactoring”. Refactoring is the reshaping of code structure without changing the behavior of the system. This makes it easier to add new functionality to the software.
 

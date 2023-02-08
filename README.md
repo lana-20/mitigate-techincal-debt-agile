@@ -1,5 +1,7 @@
 # Mitigate Technical Debt with the 4 Core Agile Practices
 
+Refactoring, TDD/BDD, Pair/Mob Programming, and CI - these 4 technical practices can help reduce technical debt and facilitate strong team communication.
+
 ![image](https://user-images.githubusercontent.com/70295997/217430429-260f92e7-7c09-444d-97ca-d291513eeb81.png)
 
 ## Understanding Technical Debt

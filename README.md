@@ -69,6 +69,9 @@ Another important aspect of Agile development is Continuous Integration (CI), wh
 
 Pair and mob programming offer numerous benefits for Agile development teams, including improved code quality, better collaboration and communication, and increased engagement and social bonding among team members. When combined with continuous integration, Agile teams are able to deliver high-quality, maintainable software that meets the needs of their customers.
 
+<img width="1000" src="https://user-images.githubusercontent.com/70295997/217433522-c942fb21-c8dc-49f4-a32a-5e6e11ab1bc8.png">
+
+
 ## The Core Four Practices in Software Development Summary
 
 The Core Four practices in software development are crucial to developing software incrementally and effectively. They work well together to create a high-quality software development process.
